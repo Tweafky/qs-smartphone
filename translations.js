@@ -12,7 +12,7 @@
 $("#phone-app-contacts-searchArea").attr('placeholder', 'Suche');
 $("#phone-app-newcontactName").attr('placeholder', 'Name');
 $("#phone-app-newcontactNumber").attr('placeholder', 'Telefonummer');
-$("#phone-app-newcontactNote").attr('placeholder', 'Notiez');
+$("#phone-app-newcontactNote").attr('placeholder', 'Notiz');
 $(".phone-add-contact-name").attr('placeholder', 'Person');
 $(".phone-add-contact-number").attr('placeholder', 'Telefonummer');
 $(".phone-edit-contact-name").attr('placeholder', 'Person');
